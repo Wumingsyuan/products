@@ -11,4 +11,3 @@ while True:
     products.append(p)
 print(products)
 
-products[0][0]
